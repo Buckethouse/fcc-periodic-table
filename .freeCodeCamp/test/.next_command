@@ -2,3 +2,6 @@ git remote set-url origin https://github.com/Buckethouse/fcc-periodic-table.git
 git branch -M main
 git push -u origin main
 git add .
+git commit -m "initial commit"
+git checkout -b solution
+git add .
