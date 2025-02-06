@@ -220,3 +220,10 @@ git branch
 git merge feat/element-script
 git log --oneline
 git branch -d feat/element-script
+git commit -m "test: project tests successful"
+git add .
+git status
+cd ..
+git branch
+git commit -m "solution passed tests"
+git add .
